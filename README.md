@@ -34,5 +34,5 @@ cd admin-portal
 ```
 
 - Run the index.html file and see the results
-
-<br>
+- Open index.html with live server in vscode in case if it doesn't directly run
+  <br>
