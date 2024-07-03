@@ -1,4 +1,4 @@
-## demo# Welcome 🖐 to the Admin Portal
+# Welcome 🖐 to the Admin Portal
 
 It is a Portal where u can manage things with simple but userfriendly design.
 
